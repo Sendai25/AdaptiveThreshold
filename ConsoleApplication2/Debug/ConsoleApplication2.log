@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+c:\users\quin\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(106): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+c:\users\quin\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(118): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+c:\users\quin\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(146): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+c:\users\quin\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(194): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+  ConsoleApplication2.vcxproj -> C:\Users\Quin\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
